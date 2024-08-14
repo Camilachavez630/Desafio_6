@@ -1,5 +1,5 @@
 # Desafío - Estructuras de datos y funciones (III)
--------------------------------------
+-----------------------------------------
 ## Desafio Pizzería
 Pizza JAT, una empresa de pizzería a nivel mundial que desea automatizar su proceso de
 solicitud de Pizzas. Para ello, se le solicita generar un prototipo rápido que abarque
